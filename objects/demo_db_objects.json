@@ -1,0 +1,34 @@
+{
+    "characters": [
+        {"name": "Mario", "weightClass": 2},
+        {"name": "Luigi", "weightClass": 2},
+        {"name": "Peach", "weightClass": 2},
+        {"name": "Yoshi", "weightClass": 2},
+        {"name": "Bowser", "weightClass": 3},
+        {"name": "Donkey Kong", "weightClass": 3},
+        {"name": "Koopa Troopa", "weightClass": 1},
+        {"name": "Toad", "weightClass": 1}
+    ],
+    "tracks": [
+        {"name": "Mario Circuit", "difficulty": 1, "highscore": 116},
+        {"name": "Donut Plains", "difficulty": 2, "highscore": 68},
+        {"name": "Ghost Valley", "difficulty": 2, "highscore": 66},
+        {"name": "Bowser Castle", "difficulty": 4, "highscore": 91},
+        {"name": "Choco Island", "difficulty": 3, "highscore": 61},
+        {"name": "Koopa Beach", "difficulty": 3, "highscore": 54},
+        {"name": "Vanilla Lake", "difficulty": 4, "highscore": 128},
+        {"name": "Rainbow Road", "difficulty": 5, "highscore": 94}
+    ],
+    "vehicles": [
+        {"name": "Standard Cart", "speed": 6, "acceleration": 3, "handling": 3, "offroad": 2},
+        {"name": "Bruiser", "speed": 8, "acceleration": 2, "handling": 1, "offroad": 2},
+        {"name": "B Dasher", "speed": 8, "acceleration": 1, "handling": 4, "offroad": 1},
+        {"name": "Egg 1", "speed": 5, "acceleration": 5, "handling": 3, "offroad": 2},
+        {"name": "Koopa Clown", "speed": 6, "acceleration": 2, "handling": 5, "offroad": 1},
+        {"name": "Bolt Buggy", "speed": 7, "acceleration": 1, "handling": 2, "offroad": 3},
+        {"name": "Pipe Frame", "speed": 5, "acceleration": 4, "handling": 3, "offroad": 3},
+        {"name": "Standard Bike", "speed": 6, "acceleration": 3, "handling": 3, "offroad": 2},
+        {"name": "Mach Bike", "speed": 8, "acceleration": 2, "handling": 2, "offroad": 1},
+        {"name": "Flamerunner", "speed": 9, "acceleration": 1, "handling": 2, "offroad": 1}
+    ]
+}

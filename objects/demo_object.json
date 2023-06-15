@@ -1,0 +1,7 @@
+{
+    "name": "Standard Cart",
+    "speed": 6,
+    "acceleration": 3,
+    "handling": 3,
+    "offroad": 2
+}
