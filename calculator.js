@@ -90,7 +90,7 @@ testCode(1, power(7, 0));
 testCode(64, power(-8, 2));
 
 console.log("\nFactor Function Tests:");
-testCode(1, countFactors(7));
+testCode(2, countFactors(7));
 testCode(12, countFactors(60));
 testCode(5, countFactors(81));
 
